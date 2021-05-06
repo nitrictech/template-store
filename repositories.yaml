@@ -1,3 +1,5 @@
 # The official nitric template repository
-official:
-  location: https://github.com/nitrictech/templates
+function:
+  location: https://github.com/nitrictech/function-templates
+server:
+  location: https://github.com/nitrictech/server-templates
